@@ -12,19 +12,29 @@
 
 일시 : 매주 1회 세미나  
 
-사용 언어 : Python(Tensorflow flamework)  
+사용 언어 : Python(Tensorflow, Keras)  
     
 ---
 
 ## Progress
 
 1. 발표  
-    주차별 내용에 맞게 각자 준비
-    세미나 당일 랜덤 추첨 발표
+    * 주차별 내용에 맞게 각자 준비
+    * 세미나 당일 랜덤 추첨 발표자 선정 
+
 2. 구현  
-    각자 소스 코드 구현
+    * 각자 코드 구현  
+
 3. 발표 자료 업로드  
-    Deadline : 세미나 30분전 까지
+    * 각 주차 폴더에 구현코드, 발표자료 업로드  
+    * Deadline : 세미나 30분전 까지
+
+4. 파일 네이밍  
+    * 이름_발표자료_년도월일.pptx  
+    ex) 최락현_발표자료_191106.pptx
+    * 이름_Lec번호_번호_년도월일.py  
+    ex) 최락현_Lec01_1_191106.py, 최락현_Lec01_2_191106.py
+
 ---
 
 ## Curriculum
@@ -91,10 +101,6 @@ coke_mania@naver.com
 모두를 위한 딥러닝 season2 - [link](https://deeplearningzerotoall.github.io/season2/lec_tensorflow.html)
 
 ---
-## Version History
-
-* 0.0.1
-    * Initial: Upload Initial : 2019.11.03
 
 <!--
 [https://github.com/yourname/github-link](https://github.com/dbader/)
