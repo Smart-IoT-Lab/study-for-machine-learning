@@ -89,7 +89,7 @@ coke_mania@naver.com
 이메일  
 
 최락현- [@chasura416](https://github.com/chasura416) – 
-이메일
+chasura416@naver.com
 
 박지우 - [@a0107476](https://github.com/a0107476) – 
 이메일
