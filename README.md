@@ -46,13 +46,11 @@
 
 * 2주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 03: Linear Regression and How to minimize cost  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 03: Linear Regression and How to minimize cost 를 TensorFlow 로 구현하기  
-
-* 3주차  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 04: Multi-variable Linear Regression  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 03: Linear Regression and How to minimize cost 를 TensorFlow 로 구현하기    
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 04: Multi-variable Linear Regression  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 04: Multi-variable Linear Regression 를 TensorFlow 로 구현하기   
 
-* 4주차  
+* 3주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 05-1: Logistic Regression/Classification 의 소개  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 05-2: Logistic Regression/Classification 의 cost 함수, 최소화  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 05-3: Logistic Regression/Classification 를 TensorFlow 로 구현하기  
