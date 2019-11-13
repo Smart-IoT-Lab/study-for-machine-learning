@@ -55,8 +55,11 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 05-2: Logistic Regression/Classification 의 cost 함수, 최소화  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 05-3: Logistic Regression/Classification 를 TensorFlow 로 구현하기  
 
-* 5주차  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 추후 추가예정
+* 4주차  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 06-1: Softmax Regression: 기본 개념소개  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 06-2: Softmax Classifier의 cost함수  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 06-1: Softmax classifier 를 TensorFlow 로 구현하기  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lab 06-2: Fancy Softmax classifier 를 TensorFlow 로 구현하기
 ---
 
 <!--
