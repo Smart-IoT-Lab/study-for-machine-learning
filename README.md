@@ -92,7 +92,7 @@ coke_mania@naver.com
 chasura416@naver.com
 
 박지우 - [@a0107476](https://github.com/a0107476) – 
-이메일
+a01074761054@gmail.com
 
 
 ---
