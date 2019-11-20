@@ -87,7 +87,7 @@ minho9301@naver.com
 coke_mania@naver.com
 
 이미미- [@alal3960](https://github.com/alal3960) – 
-이메일  
+alal39603819@gmail.com  
 
 최락현- [@chasura416](https://github.com/chasura416) – 
 chasura416@naver.com
