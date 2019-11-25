@@ -39,27 +39,49 @@
 
 ## Curriculum
 
-* 1주차  
+*1주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 01: 기본적인 Machine Learning 의 용어와 개념 설명  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 02: Simple Linear Regression  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 02: Simple Linear Regression 를 TensorFlow 로 구현하기  
 
-* 2주차  
+*2주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 03: Linear Regression and How to minimize cost  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 03: Linear Regression and How to minimize cost 를 TensorFlow 로 구현하기    
  &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 04: Multi-variable Linear Regression  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 04: Multi-variable Linear Regression 를 TensorFlow 로 구현하기   
 
-* 3주차  
+*3주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 05-1: Logistic Regression/Classification 의 소개  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lec 05-2: Logistic Regression/Classification 의 cost 함수, 최소화  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lab 05-3: Logistic Regression/Classification 를 TensorFlow 로 구현하기  
 
-* 4주차  
+*4주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 06-1: Softmax Regression: 기본 개념소개  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 06-2: Softmax Classifier의 cost함수  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 06-1: Softmax classifier 를 TensorFlow 로 구현하기  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;  Lab 06-2: Fancy Softmax classifier 를 TensorFlow 로 구현하기
+
+*5주차
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-1: Application & Tips: 학습률(Learning Rate)과 데이터 전처리(Data Preprocessing)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-2-1: Application & Tips: 오버피팅(Overfitting) & Solutions  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-2-2: Application & Tips: 학습률, 전처리, 오버피팅을 TensorFlow 로 실습  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-3-1: Application & Tips: Data & Learning  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-3-2: Application & Tips: 다양한 Dataset 으로 실습  
+
+*6주차  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 08-1: 딥러닝의 기본 개념: 시작과 XOR 문제  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 08-2: 딥러닝의 기본 개념2: Back-propagation 과 2006/2007 ‘딥’의 출현  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 09-1: XOR 문제 딥러닝으로 풀기  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 09-2: 딥넷트웍 학습 시키기 (backpropagation)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 09-1: Neural Net for XOR  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 09-2: Tensorboard (Neural Net for XOR)  
+
+*7주차  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-1: Sigmoid 보다 ReLU가 더 좋아  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-2: Weight 초기화 잘해보자  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-3: Dropout  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-4: Batch Normalization  
+
 ---
 
 <!--
