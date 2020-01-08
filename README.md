@@ -66,9 +66,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-2-1: Application & Tips: 오버피팅(Overfitting) & Solutions  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-2-2: Application & Tips: 학습률, 전처리, 오버피팅을 TensorFlow 로 실습  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-3-1: Application & Tips: Data & Learning  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-3-2: Application & Tips: 다양한 Dataset 으로 실습  
-
-*6주차  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 07-3-2: Application & Tips: 다양한 Dataset 으로 실습   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 08-1: 딥러닝의 기본 개념: 시작과 XOR 문제  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 08-2: 딥러닝의 기본 개념2: Back-propagation 과 2006/2007 ‘딥’의 출현  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 09-1: XOR 문제 딥러닝으로 풀기  
@@ -76,13 +74,13 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 09-1: Neural Net for XOR  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 09-2: Tensorboard (Neural Net for XOR)  
 
-*7주차  
+*6주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-1: Sigmoid 보다 ReLU가 더 좋아  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-2: Weight 초기화 잘해보자  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-3: Dropout  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lab 10-4: Batch Normalization  
 
-*8주차  
+*7주차  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 11-1: ConvNet의 Conv 레이어 만들기  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 11-2: ConvNet Max pooling 과 Full Network  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Lec 11-3: ConvNet의 활용예  
